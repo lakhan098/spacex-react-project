@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+ .card img{
+   height: 300px;
+ }
+  .card{
+    margin-bottom: 10px;
+  }
